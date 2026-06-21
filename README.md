@@ -4,7 +4,7 @@ This is repository for SNDL, a biomimetic robot that is your unique companion fo
 ## Project Introduction
 <img width="648" height="510" alt="image" src="https://github.com/user-attachments/assets/42f25f23-4353-422d-8615-7f70c1faa318" />
 <img width="898" height="796" alt="image" src="https://github.com/user-attachments/assets/c017f482-18e5-4c8b-baf2-b75505830295" />
-<img width="1458" height="1444" alt="image" src="https://github.com/user-attachments/assets/ffc3354c-1f35-406b-8177-c2e75fe32fcf" />
+<img width="1458" height="1444" alt="image" src="https://github.com/user-attachments/assets/62ab1243-b989-4798-a1d1-5065458d1f3b" />
 
 
 This is SNDL, a mountain waste collecting beetle-like 6-legged biomimetic robot companion, building a sustainable future through protecting nature closest to our daily life. 
