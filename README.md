@@ -7,16 +7,15 @@ This is repository for SNDL, a biomimetic robot that is your unique companion fo
 <img width="1458" height="1444" alt="image" src="https://github.com/user-attachments/assets/62ab1243-b989-4798-a1d1-5065458d1f3b" />
 
 
-This is SNDL, a mountain waste collecting beetle-like 6-legged biomimetic robot companion, building a sustainable future through protecting nature closest to our daily life. 
+This is SNDL, a waste collecting beetle-like 6-legged biomimetic robot companion, building a sustainable future through protecting nature closest to our daily life. 
 
-Can you believe everyday trash on mountains causes biodiversity loss, water contamination, and economic loss of $16M per 100t? Trash is piling up every second – 2,200tons in Yosemite – as rugged terrain limits humans to collect 4% of total trash. 
-
-SNDL revolutionize this reality through first-ever innovation inspired by insects’ skeletal structures evolved to survive in mountains. Built over believing “nature already holds the answer to our problem”, SNDL targets to remove all the accumulated trash through collaboration with human. No need to carry heavy wastes and get exhausted over exhausted: you can just hand them in to SNDL and it’ll carry it for you!
+SNDL revolutionize this reality through first-ever innovation inspired by insects’ skeletal structures evolved to survive in harsh terrains. Built over believing “nature already holds the answer to our problem”, SNDL targets to remove all the accumulated trash through collaboration with human. No need to carry heavy wastes and get exhausted over exhausted: you can just hand them in to SNDL and it’ll carry it for you!
 
 By mimicking the Diabolical Ironclad Beetle and the Metallifer Stag Beetle, SNDL plan to restore one mountain ecosystem — one BIOME — proving we aren’t late to save this planet.
 
 ## Zine page
-<img width="652" height="936" alt="image" src="https://github.com/user-attachments/assets/cb69e9fc-8993-4f98-8f22-e5262ebff3be" />
+<img width="706" height="1010" alt="image" src="https://github.com/user-attachments/assets/8e182a55-23ed-4716-a02c-9a1573cf1bdf" />
+
 
 
 ## BOM
